@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 20px;
+    color: red;
+}
+
+.title{
+    font-size: 6rem;
+}
+
+.subtitle{
+    font-size: 4rem;
+}
+
+img{
+    max-width:100%;
+}
+
+.gallery{
+    /* setup Grid RAM */
+}
+
+.header{
+    /* setup the Grid Layout of the Title/Subtitle*/
+}
+
+
+/* Add media queries below */
